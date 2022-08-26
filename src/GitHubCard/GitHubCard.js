@@ -8,8 +8,8 @@ function GitHubCard() {
         <div className="card">
           <Card style={{ width: "18rem"}}>
           {/* Use your GitHub info instead, but Mickey Mouse is used as an example */}
-          <Card.Img variant="top" src={FinalFantasy} />
-          {/* Source: https://en.wikipedia.org/wiki/Mickey_Mouse */}
+          <Card.Img variant="middle" src={FinalFantasy} />
+          {/* Source: https://en.wikipedia.org/wiki/Final_Fantasy_XV */}
           <Card.Body>
               <Card.Title>Code World</Card.Title>
               <Card.Text>
