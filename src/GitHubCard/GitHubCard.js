@@ -1,6 +1,6 @@
 import React from "react"
 import Card from "react-bootstrap/Card"
-import FinalFantasy from './ffxv.0.gif'
+import FinalFantasy from './Final_Fantasy.gif'
 
 
 function GitHubCard() {
