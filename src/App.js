@@ -1,5 +1,5 @@
 //import logo from './logo.svg';
-import './App.css';
+import './App.css'
 import GitHubCard from './GitHubCard/GitHubCard'
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
