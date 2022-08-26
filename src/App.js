@@ -7,7 +7,7 @@ import Row from 'react-bootstrap/Row'
 
 function App() {
   return (
-    <div className="App pt-5" >
+    <div className="App" >
       <Row>
         <Col style={{display: 'flex', justifyContent: 'center'}}>
           <GitHubCard />
