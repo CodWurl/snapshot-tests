@@ -1,6 +1,6 @@
 //import logo from './logo.svg';
 import './App.css'
-import GitHubCard from './GitHubCard/GitHubCard'
+import GitHubCard from './GitHubCard/GitHubCard.js'
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
 
