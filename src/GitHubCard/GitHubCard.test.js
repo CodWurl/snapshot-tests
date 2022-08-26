@@ -1,3 +1,4 @@
+import { render, screen } from '@testing-library/react';
 import GitHubCard from './src/GitHubCard/GitHubCard.js'
 import renderer from 'react-test-renderer'
 
