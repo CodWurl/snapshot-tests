@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
+import GitHubCard from './GitHubCard/GitHubCard'
 
 function App() {
   return (
@@ -17,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <h2>
+          testing
+        </h2>
       </header>
     </div>
   );
