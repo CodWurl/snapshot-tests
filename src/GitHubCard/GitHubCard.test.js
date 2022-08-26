@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import GitHubCard from './src/GitHubCard/GitHubCard.js'
+import GitHubCard from './GitHubCard'
 import renderer from 'react-test-renderer'
 
 test('renders a snapshot', () => {

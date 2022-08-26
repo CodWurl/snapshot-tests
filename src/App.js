@@ -1,8 +1,8 @@
 //import logo from './logo.svg';
 import './App.css'
 import GitHubCard from './GitHubCard/GitHubCard'
-import Col from 'react-bootstrap/Col'
-import Row from 'react-bootstrap/Row'
+//import Col from 'react-bootstrap/Col'
+//import Row from 'react-bootstrap/Row'
 
 
 function App() {
@@ -17,6 +17,6 @@ function App() {
   )
 }
 
-export default App;
+export default App
 
 
