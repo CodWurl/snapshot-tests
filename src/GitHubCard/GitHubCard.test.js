@@ -1,4 +1,4 @@
-import GitHubCard from './GitHubCard'
+import GitHubCard from './src/GitHubCard/GitHubCard.js'
 import renderer from 'react-test-renderer'
 
 test('renders a snapshot', () => {
